@@ -1,0 +1,4 @@
+langchain-core>=0.3.33
+langchain>=0.2.6
+numpy==1.26.4
+requests==2.32.3
