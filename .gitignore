@@ -1,0 +1,11 @@
+__pycache__
+*.egg-info
+dickens/
+.idea/
+dist/
+env/
+*.ignore.*
+ignore_this.txt
+.venv/
+*.ignore.*
+.ruff_cache/
